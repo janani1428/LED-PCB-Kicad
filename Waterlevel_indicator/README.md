@@ -31,10 +31,21 @@ The design provides indication for different water levels:
 
 ## 📂 Project Files
 
-- Schematic-
-- PCB Layout
-- Gerber Files
-- PCB 3D View
+### 1. Schematic
+![Schematic](Screenshot_2026-08-08_123942.jpg)
+
+### 2. PCB Layout
+![PCB Layout](Screenshot_2026-08-08_123853.jpg)
+
+### 3. 3D View
+![3D View](Screenshot_2026-08-08_123650.jpg)
+### 4. back view
+![3D View](Screenshot_2026-08-08_123727.jpg)
+
+### 5. Copper Layer
+![Copper Layer](Screenshot_2026-08-08_123919.jpg)
+
+
 
 ## 🎯 Skills Practiced
 
