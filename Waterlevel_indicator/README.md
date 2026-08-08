@@ -27,23 +27,15 @@ The design provides indication for different water levels:
 - KiCad
 - Schematic Capture-
 - PCB Layout-
-- PCB 3D Visualization-Screenshot 2026-08-08 123650.jpg
+- PCB 3D Visualization
 
 ## 📂 Project Files
 
-### 1. Schematic
-![Schematic](Screenshot_2026-08-08_123942.jpg)
-
-### 2. PCB Layout
-![PCB Layout](Screenshot_2026-08-08_123853.jpg)
-
-### 3. 3D View
-![3D View](Screenshot_2026-08-08_123650.jpg)
-### 4. back view
-![3D View](Screenshot_2026-08-08_123727.jpg)
-
-### 5. Copper Layer
-![Copper Layer](Screenshot_2026-08-08_123919.jpg)
+1. Schematic
+2. PCB Layout
+3. 3D View
+4. back view
+5. Copper Layer
 
 
 
