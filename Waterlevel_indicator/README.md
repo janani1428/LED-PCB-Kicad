@@ -25,9 +25,9 @@ The design provides indication for different water levels:
 ## 🛠️ Design Tool
 
 - KiCad
-- Schematic Capture
-- PCB Layout
-- PCB 3D Visualization
+- Schematic Capture-
+- PCB Layout-
+- PCB 3D Visualization-Screenshot 2026-08-08 123650.jpg
 
 ## 📂 Project Files
 
